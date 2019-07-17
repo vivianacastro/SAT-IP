@@ -7,5 +7,5 @@ public interface Constants {
 	String SPACE = " ";
 	String EMPTY = "";
 	String CNF_EXT = ".cnf";
-	String MINIZINC_EXT = ".minizinc";
+	String MINIZINC_EXT = ".mzn";
 }
