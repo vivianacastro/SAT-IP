@@ -38,8 +38,8 @@ public class ReductorApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		// Extraemos los argumnentos de la JVM.
-		String inputPath = "\\Users\\Viviana\\Documents\\SAT-IP\\InstanciasSAT";
-		String outputPath = "\\Users\\Viviana\\Documents\\SAT-IP\\InstanciasMiniZinc";
+		String inputPath = (Paths.get(System.getProperty("user.dir"))).getParent() + "/InstanciasSAT";
+		String outputPath = (Paths.get(System.getProperty("user.dir"))).getParent() + "/InstanciasMiniZinc";
 
 		try {
 			ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newCachedThreadPool();
