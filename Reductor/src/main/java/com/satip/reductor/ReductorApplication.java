@@ -6,6 +6,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
+import java.util.concurrent.TimeUnit;
 import java.util.stream.Stream;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -26,6 +27,7 @@ import com.satip.reductor.utils.Constants;
 @SpringBootApplication
 public class ReductorApplication implements CommandLineRunner {
 
+	private static final Integer THREAD_POOL_EXECUTOR_TIMEOUT = 5;
 	@Autowired
 	private DimacsTransformer transformer;
 
@@ -36,8 +38,8 @@ public class ReductorApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		// Extraemos los argumnentos de la JVM.
-		String inputPath = "\\workspace\\TOOLS\\SAT-IP\\InstanciasSAT";
-		String outputPath = "\\workspace\\TOOLS\\SAT-IP\\InstanciasMiniZinc";
+		String inputPath = "\\Users\\Viviana\\Documents\\SAT-IP\\InstanciasSAT";
+		String outputPath = "\\Users\\Viviana\\Documents\\SAT-IP\\InstanciasMiniZinc";
 
 		try {
 			ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newCachedThreadPool();
@@ -63,6 +65,11 @@ public class ReductorApplication implements CommandLineRunner {
 			}
 
 			executor.shutdown();
+			try {
+				executor.awaitTermination(THREAD_POOL_EXECUTOR_TIMEOUT, TimeUnit.MINUTES);
+			} catch (InterruptedException e) {
+				throw new DimacsException(e.getMessage(), e.getCause());
+			}
 		} catch (Exception e) {
 			System.err.println(e.getMessage());
 			e.printStackTrace();
