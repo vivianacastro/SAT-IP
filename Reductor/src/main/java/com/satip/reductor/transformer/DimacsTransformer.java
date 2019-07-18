@@ -105,7 +105,7 @@ public class DimacsTransformer {
 		}
 
 		// Se define la condicion de satisfacion.
-		builder.append("solve satisfy :\n");
+		builder.append("solve satisfy;\n");
 
 		// Se define la salida.
 		builder.append("output [");
