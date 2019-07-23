@@ -1,0 +1,308 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/candy/core/Certificate.h
+vector
+-
+cstring
+-
+fstream
+-
+memory
+-
+candy/core/SolverTypes.h
+../src/candy/core/candy/core/SolverTypes.h
+candy/core/Clause.h
+../src/candy/core/candy/core/Clause.h
+candy/core/SolverTypes.h
+../src/candy/core/candy/core/SolverTypes.h
+
+../src/candy/core/Clause.h
+candy/core/SolverTypes.h
+../src/candy/core/candy/core/SolverTypes.h
+candy/core/Statistics.h
+-
+iostream
+-
+
+../src/candy/core/SolverTypes.h
+assert.h
+-
+stdint.h
+-
+vector
+-
+algorithm
+-
+functional
+-
+
+../src/candy/core/Statistics.h
+cstdint
+-
+cstdio
+-
+cassert
+-
+vector
+-
+map
+-
+string
+-
+chrono
+-
+candy/utils/System.h
+-
+
+../src/candy/gates/GateAnalyzer.h
+cstdlib
+-
+algorithm
+-
+memory
+-
+vector
+-
+set
+-
+climits
+-
+chrono
+-
+candy/core/SolverTypes.h
+../src/candy/gates/candy/core/SolverTypes.h
+candy/utils/Runtime.h
+../src/candy/gates/candy/utils/Runtime.h
+candy/utils/CNFProblem.h
+../src/candy/gates/candy/utils/CNFProblem.h
+
+../src/candy/gates/GateDFSTraversal.h
+candy/gates/GateAnalyzer.h
+-
+vector
+-
+stack
+-
+unordered_set
+-
+iostream
+-
+
+../src/candy/utils/Attributes.h
+
+../src/candy/utils/CNFProblem.h
+candy/utils/ParseUtils.h
+../src/candy/utils/candy/utils/ParseUtils.h
+candy/core/SolverTypes.h
+../src/candy/utils/candy/core/SolverTypes.h
+candy/core/Certificate.h
+../src/candy/utils/candy/core/Certificate.h
+vector
+-
+
+../src/candy/utils/FastRand.h
+cstdint
+-
+
+../src/candy/utils/MemUtils.h
+memory
+-
+
+../src/candy/utils/ParseUtils.h
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+zlib.h
+-
+memory
+-
+
+../src/candy/utils/Runtime.h
+candy/utils/System.h
+-
+chrono
+-
+
+../src/candy/utils/System.h
+fpu_control.h
+-
+stdint.h
+-
+inttypes.h
+-
+limits.h
+-
+chrono
+-
+sys/time.h
+-
+sys/resource.h
+-
+unistd.h
+-
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/ClauseOrder.cc
+ClauseOrder.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/ClauseOrder.h
+memory
+-
+vector
+-
+algorithm
+-
+unordered_map
+-
+unordered_set
+-
+candy/gates/GateAnalyzer.h
+-
+candy/gates/GateDFSTraversal.h
+-
+candy/core/SolverTypes.h
+-
+candy/utils/MemUtils.h
+-
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/ClauseOrder.h
+vector
+-
+memory
+-
+unordered_set
+-
+core/SolverTypes.h
+-
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Conjectures.cc
+Conjectures.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Conjectures.h
+utils/MemUtils.h
+-
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Conjectures.h
+core/SolverTypes.h
+-
+cstdint
+-
+memory
+-
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Partition.cc
+Partition.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Partition.h
+memory
+-
+unordered_map
+-
+cstdint
+-
+utils/FastRand.h
+-
+utils/MemUtils.h
+-
+SimulationVector.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/SimulationVector.h
+Conjectures.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Conjectures.h
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Partition.h
+memory
+-
+vector
+-
+core/SolverTypes.h
+-
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Propagation.cc
+Propagation.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Propagation.h
+utils/MemUtils.h
+-
+ClauseOrder.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/ClauseOrder.h
+SimulationVector.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/SimulationVector.h
+limits
+-
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Propagation.h
+memory
+-
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/RandomSimulator.cc
+RandomSimulator.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/RandomSimulator.h
+cassert
+-
+utils/MemUtils.h
+-
+utils/System.h
+-
+utils/Runtime.h
+-
+ClauseOrder.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/ClauseOrder.h
+Partition.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Partition.h
+Randomization.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Randomization.h
+SimulationVector.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/SimulationVector.h
+Propagation.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Propagation.h
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/RandomSimulator.h
+memory
+-
+chrono
+-
+Conjectures.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Conjectures.h
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Randomization.cc
+Randomization.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Randomization.h
+utils/FastRand.h
+-
+utils/MemUtils.h
+-
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Randomization.h
+vector
+-
+memory
+-
+SimulationVector.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/SimulationVector.h
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/SimulationVector.cc
+SimulationVector.h
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/SimulationVector.h
+cstdint
+-
+iostream
+-
+bitset
+-
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/SimulationVector.h
+cstdint
+-
+cassert
+-
+memory
+-
+candy/core/SolverTypes.h
+-
+candy/utils/Attributes.h
+-
+

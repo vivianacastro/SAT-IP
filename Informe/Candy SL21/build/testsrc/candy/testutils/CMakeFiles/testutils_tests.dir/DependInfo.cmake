@@ -1,0 +1,32 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/testutils/TestGateStructureTests.cc" "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/testutils/CMakeFiles/testutils_tests.dir/TestGateStructureTests.cc.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "CANDY_HAS_NO_RTTI"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../src"
+  "../src/candy"
+  "/lib/googletest/googletest/include"
+  "/lib/googletest/googlemock/include"
+  "../lib/googletest/googletest/include"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/lib/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/lib/googletest/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

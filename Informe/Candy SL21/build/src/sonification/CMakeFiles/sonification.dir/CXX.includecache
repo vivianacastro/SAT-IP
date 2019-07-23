@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/sonification/SolverSonification.h
+sonification/Sonification.h
+-
+
+../src/sonification/Sonification.h
+oscpack/osc/OscOutboundPacketStream.h
+../src/sonification/oscpack/osc/OscOutboundPacketStream.h
+oscpack/ip/UdpSocket.h
+../src/sonification/oscpack/ip/UdpSocket.h
+chrono
+-
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/sonification/SolverSonification.cc
+sonification/SolverSonification.h
+-
+
+/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/sonification/Sonification.cc
+sonification/Sonification.h
+-
+unistd.h
+-
+chrono
+-
+thread
+-
+

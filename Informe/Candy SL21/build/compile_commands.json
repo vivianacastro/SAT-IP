@@ -1,0 +1,367 @@
+[
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/candy.dir/src/candy/Main.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/Main.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/Main.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/utils",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/utils.dir/CNFProblem.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/utils/CNFProblem.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/utils/CNFProblem.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/utils",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/utils.dir/Options.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/utils/Options.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/utils/Options.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/utils",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/utils.dir/System.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/utils/System.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/utils/System.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/utils",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/utils.dir/FastRand.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/utils/FastRand.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/utils/FastRand.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/core",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/core.dir/Solver.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/core/Solver.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/core/Solver.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/core",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/core.dir/Statistics.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/core/Statistics.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/core/Statistics.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/core",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/core.dir/Clause.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/core/Clause.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/core/Clause.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/core",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/core.dir/ClauseAllocator.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/core/ClauseAllocator.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/core/ClauseAllocator.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/core",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/core.dir/Certificate.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/core/Certificate.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/core/Certificate.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/simp",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/simp.dir/SimpSolver.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/simp/SimpSolver.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/simp/SimpSolver.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/gates",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/gates.dir/GateAnalyzer.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/gates/GateAnalyzer.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/gates/GateAnalyzer.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/gates",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/gates.dir/MiterDetector.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/gates/MiterDetector.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/gates/MiterDetector.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -Wextra -o CMakeFiles/randomsimulation.dir/RandomSimulator.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/RandomSimulator.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/RandomSimulator.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -Wextra -o CMakeFiles/randomsimulation.dir/SimulationVector.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/SimulationVector.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/SimulationVector.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -Wextra -o CMakeFiles/randomsimulation.dir/Randomization.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Randomization.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Randomization.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -Wextra -o CMakeFiles/randomsimulation.dir/Partition.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Partition.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Partition.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -Wextra -o CMakeFiles/randomsimulation.dir/ClauseOrder.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/ClauseOrder.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/ClauseOrder.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -Wextra -o CMakeFiles/randomsimulation.dir/Propagation.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Propagation.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Propagation.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -Wextra -o CMakeFiles/randomsimulation.dir/Conjectures.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Conjectures.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/randomsimulation/Conjectures.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/rsar",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsar.dir/SolverAdapter.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/rsar/SolverAdapter.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/rsar/SolverAdapter.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/rsar",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsar.dir/ARSolver.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/rsar/ARSolver.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/rsar/ARSolver.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/rsar",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsar.dir/Refinement.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/rsar/Refinement.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/rsar/Refinement.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/rsar",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsar.dir/Heuristics.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/rsar/Heuristics.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/rsar/Heuristics.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/rsar",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsar.dir/ApproximationState.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/rsar/ApproximationState.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/rsar/ApproximationState.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/ipasir",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/ipasir.dir/ipasircandy.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/ipasir/ipasircandy.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/ipasir/ipasircandy.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/rsil",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsil.dir/BranchingHeuristics.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/rsil/BranchingHeuristics.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/rsil/BranchingHeuristics.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/frontend",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/frontend.dir/RSILFrontend.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/frontend/RSILFrontend.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/frontend/RSILFrontend.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/frontend",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/frontend.dir/Exceptions.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/frontend/Exceptions.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/frontend/Exceptions.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/frontend",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/frontend.dir/RandomSimulationFrontend.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/frontend/RandomSimulationFrontend.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/frontend/RandomSimulationFrontend.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/frontend",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/frontend.dir/GateAnalyzerFrontend.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/frontend/GateAnalyzerFrontend.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/frontend/GateAnalyzerFrontend.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/frontend",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/frontend.dir/RSARFrontend.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/frontend/RSARFrontend.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/frontend/RSARFrontend.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/candy/frontend",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/frontend.dir/CandyCommandLineParser.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/frontend/CandyCommandLineParser.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy/frontend/CandyCommandLineParser.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/sonification",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/sonification.dir/Sonification.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/sonification/Sonification.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/sonification/Sonification.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/src/sonification",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/sonification.dir/SolverSonification.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/sonification/SolverSonification.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/sonification/SolverSonification.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/lib/googletest/googlemock",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/src/gtest-all.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/lib/googletest/googlemock",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/src/gmock-all.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/lib/googletest/googlemock",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/src/gmock_main.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/lib/googletest/googlemock",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/src/gtest-all.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/lib/googletest/googlemock",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/src/gmock-all.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/lib/googletest/googlemock/gtest",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/src/gtest-all.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/lib/googletest/googlemock/gtest",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/src/gtest_main.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/testutils",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/testutils.dir/TestGateStructure.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/testutils/TestGateStructure.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/testutils/TestGateStructure.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/testutils",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/testutils.dir/TestUtils.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/testutils/TestUtils.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/testutils/TestUtils.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/testutils",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/testutils_tests.dir/TestGateStructureTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/testutils/TestGateStructureTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/testutils/TestGateStructureTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/gates",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/gates_tests.dir/GateDFSTraversalTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/gates/GateDFSTraversalTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/gates/GateDFSTraversalTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/gates",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/gates_tests.dir/MiterDetectorTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/gates/MiterDetectorTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/gates/MiterDetectorTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/randomsimulation_tests.dir/PartitionTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/PartitionTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/PartitionTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/randomsimulation_tests.dir/PropagationTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/PropagationTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/PropagationTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/randomsimulation_tests.dir/ClauseOrderTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/ClauseOrderTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/ClauseOrderTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/randomsimulation_tests.dir/SimulationVectorTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/SimulationVectorTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/SimulationVectorTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/randomsimulation_tests.dir/TestUtils.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/TestUtils.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/TestUtils.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/randomsimulation_tests.dir/RandomSimulatorTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/RandomSimulatorTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/RandomSimulatorTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/randomsimulation_tests.dir/RandomizationTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/RandomizationTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/RandomizationTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/randomsimulation_tests.dir/ConjectureFilterTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/ConjectureFilterTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/ConjectureFilterTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/randomsimulation",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/randomsimulation_tests.dir/GateFilterTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/GateFilterTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/randomsimulation/GateFilterTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/rsar",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsar_tests.dir/SolverMock.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/SolverMock.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/SolverMock.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/rsar",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsar_tests.dir/SolverMockTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/SolverMockTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/SolverMockTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/rsar",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsar_tests.dir/TestUtils.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/TestUtils.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/TestUtils.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/rsar",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsar_tests.dir/HeuristicsMock.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/HeuristicsMock.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/HeuristicsMock.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/rsar",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsar_tests.dir/RefinementTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/RefinementTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/RefinementTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/rsar",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsar_tests.dir/ApproximationStateTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/ApproximationStateTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/ApproximationStateTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/rsar",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsar_tests.dir/ARSolverTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/ARSolverTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/ARSolverTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/rsar",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsar_tests.dir/HeuristicsTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/HeuristicsTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsar/HeuristicsTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/solver",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/solver_tests.dir/Main.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/solver/Main.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/solver/Main.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/simp",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/simp_tests.dir/SimpSolverTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/simp/SimpSolverTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/simp/SimpSolverTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/clause",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/clause_tests.dir/Main.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/clause/Main.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/clause/Main.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/rsil",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsil_tests.dir/BranchingHeuristicsTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsil/BranchingHeuristicsTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsil/BranchingHeuristicsTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/rsil",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsil_tests.dir/RSARHeuristicsFilterTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsil/RSARHeuristicsFilterTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsil/RSARHeuristicsFilterTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/rsil",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/rsil_tests.dir/ImplicitLearningAdviceTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsil/ImplicitLearningAdviceTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/rsil/ImplicitLearningAdviceTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/utils",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/utils_tests.dir/StringUtilsTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/utils/StringUtilsTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/utils/StringUtilsTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/utils",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/utils_tests.dir/CNFProblemTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/utils/CNFProblemTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/utils/CNFProblemTests.cc"
+},
+{
+  "directory": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/build/testsrc/candy/utils",
+  "command": "/usr/bin/c++  -DCANDY_HAS_NO_RTTI -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/src/candy\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy\" -I/lib/googletest/googletest/include -I/lib/googletest/googlemock/include -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googletest/include\" -I\"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/lib/googletest/googlemock/include\"  -std=c++11 -Wall -Wno-parentheses -D __STDC_LIMIT_MACROS -D __STDC_FORMAT_MACROS -fno-rtti -msse4.1 -O3 -DNDEBUG -DNDEBUG -Wall -flto -O3   -D CANDY_HAVE_RLIMIT -D DEBUG_CHECK_CASTS -o CMakeFiles/utils_tests.dir/RuntimeTests.cc.o -c \"/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/utils/RuntimeTests.cc\"",
+  "file": "/home/daniel/Noveno/Complejidad/Proyecto/SAT-IP/Informe/Candy SL21/testsrc/candy/utils/RuntimeTests.cc"
+}
+]
