@@ -27,7 +27,7 @@ import com.satip.reductor.utils.Constants;
 @SpringBootApplication
 public class ReductorApplication implements CommandLineRunner {
 
-	private static final Integer THREAD_POOL_EXECUTOR_TIMEOUT = 10;
+	private static final Integer THREAD_POOL_EXECUTOR_TIMEOUT = 5;
 	@Autowired
 	private DimacsTransformer transformer;
 
@@ -71,7 +71,7 @@ public class ReductorApplication implements CommandLineRunner {
 				throw new DimacsException(e.getMessage(), e.getCause());
 			}
 		} catch (Exception e) {
-			System.err.println(e.getMessage());
+			System.err.println(e.getMessage()+ "\nCause" + e.getCause()	);
 			e.printStackTrace();
 		}
 	}
