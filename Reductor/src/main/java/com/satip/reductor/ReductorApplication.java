@@ -47,8 +47,9 @@ public class ReductorApplication implements CommandLineRunner {
 			try (Stream<Path> paths = Files.walk(Paths.get(inputPath))) {
 				paths.forEach(filePath -> {
 					if (Files.isRegularFile(filePath)) {
+						String inputFile = filePath.toString();
 						try {
-							String inputFile = filePath.toString();
+
 							System.out.println(String.format("Sending to executor file... [%s]", inputFile));
 
 							String outputFile = inputFile.replace(inputPath, outputPath).replace(Constants.CNF_EXT,
@@ -56,6 +57,7 @@ public class ReductorApplication implements CommandLineRunner {
 							DimacsProcessor processor = new DimacsProcessor(inputFile, outputFile, transformer);
 							executor.execute(processor);
 						} catch (Exception e) {
+							System.err.println(String.format("Faile to process file [%s]", inputFile));
 							throw new DimacsException(e.getMessage(), e.getCause());
 						}
 					}
@@ -71,7 +73,7 @@ public class ReductorApplication implements CommandLineRunner {
 				throw new DimacsException(e.getMessage(), e.getCause());
 			}
 		} catch (Exception e) {
-			System.err.println(e.getMessage()+ "\nCause" + e.getCause()	);
+			System.err.println(e.getMessage() + "\nCause" + e.getCause());
 			e.printStackTrace();
 		}
 	}

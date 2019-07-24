@@ -30,7 +30,7 @@ public class DimacsTransformer {
 
 		DimacsDto dimacs = new DimacsDto();
 		for (String line : content) {
-			String[] parts = line.split(Constants.SPACE);
+			String[] parts = line.trim().split(Constants.SPACE);
 			switch (parts[0]) {
 			case Constants.COMMENT:
 				dimacs.addComment(line.substring(2, line.length()));
@@ -44,7 +44,12 @@ public class DimacsTransformer {
 			default:
 				ClausesDto clausesDto = new ClausesDto();
 				for (String part : parts) {
-					clausesDto.addValue(Integer.valueOf(part));
+					try {
+						clausesDto.addValue(Integer.valueOf(part));
+					} catch (NumberFormatException e) {
+						// Ignore..
+					}
+
 				}
 
 				dimacs.addClausesDto(clausesDto);
