@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./glu_vc -model -verb=0 $1
+

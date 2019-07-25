@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd glu_vc/simp
+make r 2>&1
+cp glucose_release ../../bin/glu_vc
+
