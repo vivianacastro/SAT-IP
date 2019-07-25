@@ -14,6 +14,7 @@ import com.satip.reductor.dto.ClausesDto;
 import com.satip.reductor.dto.DimacsDto;
 import com.satip.reductor.utils.Constants;
 import com.satip.reductor.utils.FileUtils;
+import com.satip.reductor.utils.StringUtils;
 
 /**
  * @author Viviana
@@ -30,7 +31,7 @@ public class DimacsTransformer {
 
 		DimacsDto dimacs = new DimacsDto();
 		for (String line : content) {
-			String[] parts = line.trim().split(Constants.SPACE);
+			String[] parts = StringUtils.trim(line.trim().split(Constants.SPACE));
 			switch (parts[0]) {
 			case Constants.COMMENT:
 				dimacs.addComment(line.substring(2, line.length()));
@@ -49,7 +50,6 @@ public class DimacsTransformer {
 					} catch (NumberFormatException e) {
 						// Ignore..
 					}
-
 				}
 
 				dimacs.addClausesDto(clausesDto);
